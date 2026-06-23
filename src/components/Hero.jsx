@@ -33,8 +33,8 @@ const Hero = () => {
   }, []);
 
   const animate = () => {
-    if (xPercent < -100) {
-      xPercent = 200;
+    if (xPercent < -300) {
+      xPercent = 120;
     }
     else if (xPercent > 0) {
       xPercent = -100;
