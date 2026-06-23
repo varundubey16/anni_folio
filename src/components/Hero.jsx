@@ -17,7 +17,7 @@ const Hero = () => {
   let xPercent = 0;
   let direction = -1;
 
-  useEffect(() => {
+  {/*useEffect(() => {
     gsap.registerPlugin(ScrollTrigger);
     gsap.to(slider.current, {
       scrollTrigger: {
@@ -30,7 +30,23 @@ const Hero = () => {
       x: "-500px",
     })
     requestAnimationFrame(animate);
-  }, []);
+  }, []);*/}
+
+  useEffect(() => {
+  gsap.fromTo(
+    slider.current,
+    {
+      x: window.innerWidth
+    },
+    {
+      x: -slider.current.scrollWidth,
+      duration: 15,
+      ease: "none",
+      repeat: -1,
+      repeatDelay: 3
+    }
+  );
+}, []);
 
   const animate = () => {
     if (xPercent < -100) {
