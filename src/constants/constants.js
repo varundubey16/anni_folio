@@ -138,7 +138,7 @@ const projects = [
       },
     ],
     image: carrent,
-    live_link: "https://flamingcolours.com",
+    live_link: "https://www.instagram.com/_flamingcolours_/",
   },
   {/*
     name: "random_tasveerein_",
