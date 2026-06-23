@@ -141,7 +141,7 @@ const projects = [
     image: carrent,
     live_link: "https://www.instagram.com/_flamingcolours_/",
   },
-  ];
+];
   //{
     //name: "random_tasveerein_",
     //description: "🥀 Random snippets from a phone!",
