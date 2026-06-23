@@ -117,7 +117,7 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: ink1,
+    image: inkSync,
     live_link: "https://www.forensicservicesindia.co.in/",
   },
   {
