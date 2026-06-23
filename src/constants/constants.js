@@ -104,7 +104,7 @@ const technologies = [
     icon: projectmanagement,
   },
   {
-    name: "Business Development & Analysis",
+    name: "Business Analysis & Development",
     icon: business,
   },
   {
