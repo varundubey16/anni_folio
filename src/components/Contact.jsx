@@ -33,7 +33,7 @@ const Contact = () => {
     console.log('Service ID: ', process.env.MAIL_PASS);
     e.preventDefault();
     if (!form.name || !form.email || !form.message) {
-      toast.error("Please fill all the fields.");
+      toast.error("Hey, fill all the fields, Arunima won't get it otherwise!!!");
       return;
     }
     setLoading(true);
@@ -111,7 +111,7 @@ const Contact = () => {
               name='email'
               value={form.email}
               onChange={handleChange}
-              placeholder="What's your web address?"
+              placeholder="What's your E-Mail Address?"
               className='bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
             />
           </label>
@@ -122,7 +122,7 @@ const Contact = () => {
               name='message'
               value={form.message}
               onChange={handleChange}
-              placeholder='What you want to say?'
+              placeholder='What do you want to say?'
               className='bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
             />
           </label>
