@@ -1,6 +1,7 @@
 import {
   mobile,
   backend,
+  ink1,
   web,
   javascript,
   typescript,
