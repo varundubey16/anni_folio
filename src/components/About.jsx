@@ -49,7 +49,7 @@ const About = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-4 text-secondary text-[18px] max-w-3xl leading-[30px] font-semibold'
         >
-          Hey, I'm Arunima, a forensic scientist specializing in fingerprint analysis with extensive experience in consultations. Outside of work, I'm passionate about painting, videography, and photography for social media. I thrive on challenges and collaboration, eager to make a meaningful impact in both forensic science & creative endeavors. Let's connect and create something remarkable together!
+          Hey, I'm Arunima, a Certified Forensic Expert, specializing in Fingerprinting & Questioned Documents, with extensive experience in consultations. Outside of work, I'm passionate about painting, videography, and photography for social media. I thrive on challenges and collaboration, eager to make a meaningful impact in both forensic science & creative endeavors. Let's connect and create something remarkable together!
         </motion.p>
         <Image src={color_sharp} alt="color-sharp" className="absolute z-[-1] h-80 -left-60 w-screen -top-20" />
         <Image src={astronaut} alt="astronaut" className="absolute z-[-1] h-80 -right-20 animation top-28" />
