@@ -123,7 +123,7 @@ const projects = [
   {
     name: "_flamingcolours_",
     description:
-      "A🥀 Love artist colours?🎨 , then it is a site for colour your artistic therapy✨",
+      "🥀 Love art and colours? 🎨 Then this is a space to inspire your creativity and artistic soul. ✨",
     features: [
       "_flamingcolours_ Paintings & Arts",
       "Most Artistic works you have probably never seen before",

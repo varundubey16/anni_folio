@@ -33,7 +33,7 @@ const Contact = () => {
     console.log('Service ID: ', process.env.MAIL_PASS);
     e.preventDefault();
     if (!form.name || !form.email || !form.message) {
-      toast.error("Hey, fill all the fields, Arunima won't get it otherwise!!!");
+      toast.error("Hey, fill all the fields, Arunima won't get ur message otherwise!!!");
       return;
     }
     setLoading(true);
