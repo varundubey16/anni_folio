@@ -33,8 +33,8 @@ const Hero = () => {
   }, []);
 
   const animate = () => {
-    if (xPercent < -50) {
-      xPercent = 0;
+    if (xPercent < -100) {
+      xPercent = 200;
     }
     else if (xPercent > 0) {
       xPercent = -100;
@@ -68,9 +68,9 @@ const Hero = () => {
         <div ref={slider} className="slider overflow-hidden text-secondary text-[70px] lg:text-[200px]">
           <p ref={firstText}>
             Certified Forensic Expert, Fraud Investigator,
-            AML/KYC/CDD Associate and a Content Creator •
+            AML/KYC/CDD Associate and a Content Creator
             Certified Forensic Expert, Fraud Investigator,
-            AML/KYC/CDD Associate and a Content Creator •
+            AML/KYC/CDD Associate and a Content Creator
           </p>
           {/*<p ref={secondText}>Fraud Investigator,</p>*/}
           {/*<p ref={thirdText}>AML KYC and CDD Associate</p> */}
