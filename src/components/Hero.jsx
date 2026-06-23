@@ -40,7 +40,7 @@ const Hero = () => {
     },
     {
       x: -slider.current.scrollWidth,
-      duration: 15,
+      duration: 20,
       ease: "none",
       repeat: -1,
       repeatDelay: 3
