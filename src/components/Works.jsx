@@ -8,7 +8,7 @@ import { SectionWrapper } from "./hoc";
 import { projects } from "../constants/constants";
 import { fadeIn, textVariant } from "../utils/motion";
 import { HiLink } from "react-icons/hi";
-import { ImGithub } from "react-icons/im";
+//import { ImGithub } from "react-icons/im";
 import Image from "next/image";
 import color_sharp from "../assets/color_sharp.png";
 
