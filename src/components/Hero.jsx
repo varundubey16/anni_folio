@@ -10,6 +10,8 @@ import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
 const Hero = () => {
   const firstText = useRef(null);
   const secondText = useRef(null);
+  const thirdText = useRef(null);
+  const fourthText = useRef(null);
   const slider = useRef(null);
 
   let xPercent = 0;
@@ -64,8 +66,8 @@ const Hero = () => {
         <div ref={slider} className="slider overflow-hidden text-secondary text-[70px] lg:text-[200px]">
           <p ref={firstText} >Certified Forensic Expert,</p>
           <p ref={secondText}>Fraud Investigator,</p>
-          <p ref={secondText}>AML KYC and CDD Associate</p>
-          <p ref={secondText}>and a Content Creator.</p>
+          <p ref={thirdText}>AML KYC and CDD Associate</p>
+          <p ref={fourthText}>and a Content Creator.</p>
         </div>
       </div>
 
