@@ -50,7 +50,7 @@ const About = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-4 text-secondary text-[18px] max-w-3xl leading-[30px] font-semibold'
         >
-          Hi, I'm Arunima Dubey, a B.Sc. (Hons.) and M.Sc. Forensic Science professional specializing in Fingerprints & Questioned Documents, and a Certified Forensic Expert (CFE by FSI). As a Senior CFE, Fraud Investigator and a AML, KYC and CDD Associate, I have extensive experience in fraud investigations, fraud prevention, court-ready report interpretation, and financial due diligence. Outside of work, I'm passionate about painting, videography, and photography for social media. I thrive on challenges and collaboration, always eager to make a meaningful impact in both forensic science and creative endeavors. Let's connect and create something remarkable together!
+          Hi, I'm Arunima Dubey, a B.Sc. (Hons.) and M.Sc. Forensic Science professional specializing in Fingerprints, Questioned Documents, and forensic evidence analysis. As a Certified Forensic Expert (CFE by FSI), Fraud Investigator, and AML, KYC & CDD professional, I work across corporate investigations, fraud risk assessment, due diligence, compliance reviews, and court-ready reporting. With experience in forensic examinations, financial investigations, and regulatory analysis, I focus on uncovering risks and delivering reliable investigative insights. Beyond my professional work, I am passionate about painting, photography, videography, and creative storytelling. I believe in combining analytical expertise with creativity to create meaningful impact.
 
         </motion.p>
         <Image src={color_sharp} alt="color-sharp" className="absolute z-[-1] h-80 -left-60 w-screen -top-20" />
