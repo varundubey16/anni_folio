@@ -120,7 +120,7 @@ const projects = [
     live_link: "https://www.forensicservicesindia.co.in/",
   },
   {
-    name: "flamingcolours",
+    name: "_flamingcolours_",
     description:
       "A🥀 Love artist colours?🎨 , then it is a site for colour your artistic therapy✨",
     features: [
@@ -140,7 +140,7 @@ const projects = [
     image: carrent,
     live_link: "https://flamingcolours.com",
   },
-  {
+  {/*
     name: "random_tasveerein_",
     description: "🥀 Random snippets from a phone!",
     features: [
@@ -158,7 +158,7 @@ const projects = [
     ],
     image: jobit,
     live_link: "https://www.instagram.com/random_tasveerein_/",
-  },
+  */},
 ];
 
 // const experiences = [
