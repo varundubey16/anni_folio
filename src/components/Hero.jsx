@@ -64,7 +64,7 @@ const Hero = () => {
       </div>
       <div className="sliderContainer md:z-[-10]">
         <div ref={slider} className="slider overflow-hidden text-secondary text-[70px] lg:text-[200px]">
-          <p ref={firstText} >Certified Forensic Expert • Fraud Investigator • Certified Forensic Expert • Fraud Investigator •</p>
+          <p ref={firstText} >Certified Forensic Expert, Fraud Investigator, AML/KYC/CDD Associate and a Content Creator</p>
           {/*<p ref={secondText}>Fraud Investigator,</p>*/}
           {/*<p ref={thirdText}>AML KYC and CDD Associate</p> */}
           {/*<p ref={fourthText}>and a Content Creator.</p> */}
