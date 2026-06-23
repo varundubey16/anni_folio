@@ -48,17 +48,17 @@ const services = [
     icon: web,
   },
   {
-    title: "Fraud Investigator",
+    title: "Fraud Investigations",
     icon: mobile,
   },
   {
-    title: "AML KYC & CDD",
+    title: "AML, KYC & CDD",
     icon: backend,
   },
-  // {
-  //   title: "Creator",
-  //   icon: creator,
-  // },
+  {
+    title: "Painting & Content Creation",
+    icon: creator,
+  },
 ];
 
 const technologies = [

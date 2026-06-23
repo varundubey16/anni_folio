@@ -134,7 +134,7 @@ const Works = () => {
           <motion.p
             className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
           >
-            Currently, I serve as a Certified Forensic Expert (CFE) with the FSI Haryana Branch, where I lead regional operations and oversee forensic and investigative engagements. Beyond my professional work, I am passionate about painting, photography, videography, and video editing, and actively showcase my creative pursuits through dedicated social media platforms.
+            Currently, I serve as a Certified Forensic Expert (CFE) with the Forensic Services India (Haryana) Branch, where I lead regional operations and oversee forensic and investigative engagements. Beyond my professional work, I am passionate about painting, photography, videography and video editing, and actively showcase my creative pursuits through dedicated social media platforms.
 
           </motion.p>
           <Image src={color_sharp} alt="color-sharp" className="absolute z-[-1] h-80 -left-60 w-screen -top-20" />
