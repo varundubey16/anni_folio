@@ -26,7 +26,8 @@ import {
   jwt,
   nextauth,
   socialSphere,
-  creator
+  creator,
+  aml
 } from "../assets";
 
 export const navLinks = [
@@ -65,11 +66,27 @@ const services = [
 
 const technologies = [
   {
-    name: "Forensic & Fraud Investigations",
+    name: "Forensic Investigation",
+    icon: mongodb,
+  },
+  {
+    name: "Fingerprinting",
+    icon: mongodb,
+  },
+  {
+    name: "Questioned Documents",
     icon: nodejs,
   },
   {
-    name: "Fingerprinting & QD",
+    name: "Fraud Detection & Prevention",
+    icon: mongodb,
+  },
+  {
+    name: "Anti Money Laundering",
+    icon: aml,
+  },
+  {
+    name: "Know you Customer",
     icon: mongodb,
   },
   {

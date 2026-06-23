@@ -37,9 +37,11 @@ import inkSync from "./ink.png";
 import tracker from "./tracker.png";
 import socialSphere from "./socialSphere.png";
 import ink1 from "./ink1.png";
+import aml from "./aml.png";
 
 export {
   ink1,
+  aml,
   logo,
   backend,
   creator,
