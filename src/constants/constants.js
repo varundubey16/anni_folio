@@ -25,6 +25,7 @@ import {
   jwt,
   nextauth,
   socialSphere,
+  creator
 } from "../assets";
 
 export const navLinks = [
