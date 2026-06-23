@@ -34,7 +34,7 @@ export const navLinks = [
   },
   {
     id: "work",
-    title: "Work",
+    title: "My Work",
   },
   {
     id: "contact",
@@ -44,15 +44,15 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Forensic Scientist",
+    title: "Certified Forensic Expert",
     icon: web,
   },
   {
-    title: "Content Creator",
+    title: "Fraud Investigator",
     icon: mobile,
   },
   {
-    title: "Artistic Painter",
+    title: "AML KYC & CDD",
     icon: backend,
   },
   // {
@@ -62,6 +62,14 @@ const services = [
 ];
 
 const technologies = [
+  {
+    name: "Forensic & Fraud Investigations",
+    icon: nodejs,
+  },
+  {
+    name: "Fingerprinting & QD",
+    icon: mongodb,
+  },
   {
     name: "Photography",
     icon: git,
@@ -73,14 +81,6 @@ const technologies = [
   {
     name: "Painting",
     icon: css,
-  },
-  {
-    name: "Investigation",
-    icon: nodejs,
-  },
-  {
-    name: "Fingerprinting",
-    icon: mongodb,
   },
   // {
   //   name: "NextAuth",
@@ -98,16 +98,16 @@ const technologies = [
 
 const projects = [
   {
-    name: "Hawk Eye Forensic",
+    name: "Forensic Services India",
     description:
-      "Cyber Forensic Investigation & an Internationally Accredited Training & Research Center",
+      "Handwriting || Signature Expert || Audio Video Analysis",
     features: [
-      "Trainee",
-      "Training in Questioned documents and fingerprints examination",
+      "Senior Certified Forensic Expert",
+      "Head the FSI (Haryana) Sector Department as a Senior CFE",
     ],
     tags: [
       {
-        name: "Trainee",
+        name: "Senior CFE",
         color: "orange-text-gradient",
       },
       {
@@ -116,7 +116,7 @@ const projects = [
       },
     ],
     image: inkSync,
-    live_link: "https://www.hawkeyeforensic.com/",
+    live_link: "https://www.forensicservicesindia.co.in/",
   },
   {
     name: "flamingcolours",
@@ -137,7 +137,7 @@ const projects = [
       },
     ],
     image: carrent,
-    live_link: "https://flamingcolours.lovestoblog.com",
+    live_link: "https://flamingcolours.com",
   },
   {
     name: "random_tasveerein_",

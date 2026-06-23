@@ -127,14 +127,15 @@ const Works = () => {
       < div className='relative'>
         <div>
           <p id="work" className={`${styles.sectionSubText} `}>Career & Personal Pursuits</p>
-          <h2 className={`${styles.sectionHeadText}`}>Work Experience</h2>
+          <h2 className={`${styles.sectionHeadText}`}>Current Pursuit</h2>
         </div>
 
         <div className='w-full flex'>
           <motion.p
             className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
           >
-            B.Sc. (Hons.) Forensic Science & M.Sc. Forensic Science (Specl. Fingerprint & Questioned Documents) | Certified Expert in Fingerprints and QD Examination | Senior Fraud Investigator, AML, KYC & CDD Associate | Interpretation of Court-Ready Reports | Fraud Analysis & Prevention
+            Currently, I serve as a Certified Forensic Expert (CFE) with the FSI Haryana Branch, where I lead regional operations and oversee forensic and investigative engagements. Beyond my professional work, I am passionate about painting, photography, videography, and video editing, and actively showcase my creative pursuits through dedicated social media platforms.
+
           </motion.p>
           <Image src={color_sharp} alt="color-sharp" className="absolute z-[-1] h-80 -left-60 w-screen -top-20" />
         </div>
