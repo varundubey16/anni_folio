@@ -36,8 +36,10 @@ import jobit from "./jobit.png";
 import inkSync from "./ink.png";
 import tracker from "./tracker.png";
 import socialSphere from "./socialSphere.png";
+import ink1 from "./ink1.png";
 
 export {
+  ink1,
   logo,
   backend,
   creator,
