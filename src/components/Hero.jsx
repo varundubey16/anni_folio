@@ -62,8 +62,10 @@ const Hero = () => {
       </div>
       <div className="sliderContainer md:z-[-10]">
         <div ref={slider} className="slider overflow-hidden text-secondary text-[70px] lg:text-[200px]">
-          <p ref={firstText} >Forensics Expert.</p>
-          <p ref={secondText}>Content Creator.</p>
+          <p ref={firstText} >Certified Forensic Expert,</p>
+          <p ref={secondText}>Fraud Investigator,</p>
+          <p ref={secondText}>AML KYC and CDD Associate</p>
+          <p ref={secondText}>and a Content Creator.</p>
         </div>
       </div>
 
