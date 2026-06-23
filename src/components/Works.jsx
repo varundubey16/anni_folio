@@ -134,7 +134,7 @@ const Works = () => {
           <motion.p
             className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
           >
-            FACT 2024 qualified|MSc Forensic science|Experienced Trainee in Fingerprints and Questioned Documents Examination | Interpretation of Court-Ready Reports | Forensic Science Enthusiast
+            B.Sc. (Hons) Forensic Science & M.Sc. Forensic Science (Specl. Fingerprint & Questioned Documents) | Certified Expert in Fingerprints and QD Examination | Fraud Investigator, AML, KYC & CDD | Interpretation of Court-Ready Reports | Fraud Analysis & Prevention
           </motion.p>
           <Image src={color_sharp} alt="color-sharp" className="absolute z-[-1] h-80 -left-60 w-screen -top-20" />
         </div>
