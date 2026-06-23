@@ -141,27 +141,26 @@ const projects = [
     image: carrent,
     live_link: "https://www.instagram.com/_flamingcolours_/",
   },
-  {/*
-    name: "random_tasveerein_",
-    description: "🥀 Random snippets from a phone!",
-    features: [
-      "Curated pictures of best sceneries i came across the road-trips....",
-    ],
-    tags: [
-      {
-        name: "Photography",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Videography",
-        color: "green-text-gradient",
-      },
-    ],
-    image: jobit,
-    live_link: "https://www.instagram.com/random_tasveerein_/",
-  */},
-];
-
+  ];
+  //{
+    //name: "random_tasveerein_",
+    //description: "🥀 Random snippets from a phone!",
+    //features: [
+      //"Curated pictures of best sceneries i came across the road-trips....",
+    //],
+    //tags: [
+      //{
+        //name: "Photography",
+        //color: "blue-text-gradient",
+      //},
+      //{
+        //name: "Videography",
+        //color: "green-text-gradient",
+      //},
+    //],
+    //image: jobit,
+    //live_link: "https://www.instagram.com/random_tasveerein_/",
+  //},
 // const experiences = [
 //   {
 //     title: "React.js Developer",
