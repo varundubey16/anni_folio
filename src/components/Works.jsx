@@ -8,7 +8,7 @@ import { SectionWrapper } from "./hoc";
 import { projects } from "../constants/constants";
 import { fadeIn, textVariant } from "../utils/motion";
 import { HiLink } from "react-icons/hi";
-import { ImGithub } from "react-icons/im";
+//import { ImGithub } from "react-icons/im";
 import Image from "next/image";
 import color_sharp from "../assets/color_sharp.png";
 
@@ -79,6 +79,7 @@ const ProjectCard = ({
               </p>
             </button>
           </motion.div>
+          {/*
           <motion.div ref={refSourceCodeLink} onMouseMove={onMouseMoveSourceCodeLink} onMouseLeave={onMouseLeave}
             animate={{ x: positionSourceCodeLink.x, y: positionSourceCodeLink.y }}
             transition={{
@@ -93,6 +94,7 @@ const ProjectCard = ({
               </p>
             </button>
           </motion.div>
+        */}
         </div>
       </div>
 
