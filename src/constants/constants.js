@@ -32,6 +32,7 @@ import {
   aml,
   business,
   kyc,
+  projectmanagement,
   duediligence
 } from "../assets";
 
