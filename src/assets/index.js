@@ -38,8 +38,21 @@ import tracker from "./tracker.png";
 import socialSphere from "./socialSphere.png";
 import ink1 from "./ink1.png";
 import aml from "./aml.png";
+import forensicinvestigation from "./forensicinvestigation.png";
+import frauddetection from "./frauddetection.png";
+import kyc from "./kyc.png";
+import business from "./business.png";
+import duediligence from "./duediligence.png";
+import projectmanagement from "./projectmanagement.png";
+
 
 export {
+  frauddetection,
+  duediligence,
+  projectmanagement,
+  business,
+  kyc,
+  forensicinvestigation,
   ink1,
   aml,
   logo,

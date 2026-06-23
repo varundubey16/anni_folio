@@ -27,7 +27,12 @@ import {
   nextauth,
   socialSphere,
   creator,
-  aml
+  frauddetection,
+  forensicinvestigation,
+  aml,
+  business,
+  kyc,
+  duediligence
 } from "../assets";
 
 export const navLinks = [
@@ -67,7 +72,7 @@ const services = [
 const technologies = [
   {
     name: "Forensic Investigation",
-    icon: mongodb,
+    icon: forensicinvestigation,
   },
   {
     name: "Fingerprinting",
@@ -79,7 +84,7 @@ const technologies = [
   },
   {
     name: "Fraud Detection & Prevention",
-    icon: mongodb,
+    icon: frauddetection,
   },
   {
     name: "Anti Money Laundering",
@@ -87,7 +92,19 @@ const technologies = [
   },
   {
     name: "Know you Customer",
-    icon: mongodb,
+    icon: kyc,
+  },
+  {
+    name: "Customer Due Diligence",
+    icon: duediligence,
+  },
+  {
+    name: "Project Management",
+    icon: projectmanagement,
+  },
+  {
+    name: "Business Development & Analysis",
+    icon: business,
   },
   {
     name: "Photography",
