@@ -126,8 +126,8 @@ const Works = () => {
     <>
       < div className='relative'>
         <div>
-          <p id="work" className={`${styles.sectionSubText} `}>Career & Personal Pursuits</p>
-          <h2 className={`${styles.sectionHeadText}`}>Current Pursuit</h2>
+          <p id="work" className={`${styles.sectionSubText} `}>Career & Personal Experience</p>
+          <h2 className={`${styles.sectionHeadText}`}>Current Pursuits</h2>
         </div>
 
         <div className='w-full flex'>
